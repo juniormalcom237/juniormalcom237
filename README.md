@@ -5,7 +5,7 @@ Software Engineer / Mobile developer
 <p>I'm a tech 💻 passionate been doing code for about 6years now. Love building cool and challenging stuffs 🚀. </p> 
 
 # 💫 About Me:
-* 🌍  I'm based in Cameroon, Douala
+* 🌍  I'm based in Cameroon🇨🇲, Douala
 * ✉️  You can contact me at [juniormalcom912@gmail.com](mailto:juniormalcom912@gmail.com)
 * 🚀  I'm currently working on [Blucash](http://www.blucash.net)
 * 🧠  I'm learning Flutter | SwiftUI | Kotlin
