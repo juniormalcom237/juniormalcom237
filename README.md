@@ -5,7 +5,8 @@ Software Engineer / Mobile developer
 
 
 # 💫 About Me:
-* 🌍  I'm based in Cameroon, Douala * ✉️  You can contact me at [juniormalcom912@gmail.com](mailto:juniormalcom912@gmail.com)
+* 🌍  I'm based in Cameroon, Douala
+* ✉️  You can contact me at [juniormalcom912@gmail.com](mailto:juniormalcom912@gmail.com)
 * 🚀  I'm currently working on [Blucash](http://www.blucash.net)
 * 🧠  I'm learning Flutter | SwiftUI | Kotlin
 * 🤝  I'm open to collaborating on Opensource Project in flutter * ⚡  I'm secretly a designe r<br/>
