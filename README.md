@@ -1,4 +1,10 @@
-Hi 👋 My name is Tasse Junior Malcom ====================================  Software Engineer / Mobile developer ------------------------------------  I'm a tech 💻 passionate been doing code for about 6years now. Love building cool and challenging stuffs 🚀.  * 🌍  I'm based in Cameroon, Douala * ✉️  You can contact me at [juniormalcom912@gmail.com](mailto:juniormalcom912@gmail.com) * 🚀  I'm currently working on [Blucash](http://www.blucash.net) * 🧠  I'm learning Flutter | SwiftUI | Kotlin * 🤝  I'm open to collaborating on Opensource Project in flutter * ⚡  I'm secretly a designer
+Hi 👋 My name is Tasse Junior Malcom 
+Software Engineer / Mobile developer 
+I'm a tech 💻 passionate been doing code for about 6years now. Love building cool and challenging stuffs 🚀.  
+* 🌍  I'm based in Cameroon, Douala * ✉️  You can contact me at [juniormalcom912@gmail.com](mailto:juniormalcom912@gmail.com)
+* 🚀  I'm currently working on [Blucash](http://www.blucash.net)
+* 🧠  I'm learning Flutter | SwiftUI | Kotlin
+* 🤝  I'm open to collaborating on Opensource Project in flutter * ⚡  I'm secretly a designer
 
 <a href="https://www.github.com/juniormalcom237" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/juniormalcom237?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.x.com/christdev37" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/christdev37?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 ### Skills  
@@ -10,5 +16,5 @@ Hi 👋 My name is Tasse Junior Malcom ====================================  Sof
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/juniormalcom237"><img src="https://github-readme-stats.vercel.app/api?username=juniormalcom237&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="juniormalcom237's GitHub stats" /></a>
-<a href="http://www.github.com/juniormalcom237"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juniormalcom237&stroke=6366f1&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 <a href="https://github.com/juniormalcom237" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormalcom237&langs_count=10&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
