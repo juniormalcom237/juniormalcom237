@@ -1,8 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 Hi 👋 My name is Tasse Junior Malcom 
 Software Engineer / Mobile developer 
 <p>I'm a tech 💻 passionate been doing code for about 6years now. Love building cool and challenging stuffs 🚀. </p> 
-
-
 
 # 💫 About Me:
 * 🌍  I'm based in Cameroon, Douala
